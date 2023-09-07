@@ -1,0 +1,1 @@
+// https://zimmermanna.users.greyc.fr/edt/php/EDTReader.php?ressource=1204&format=week
